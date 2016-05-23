@@ -9,8 +9,8 @@ Let's build a small Rails app that will act as an API for providing data about o
 So the plan is to TDD a Rails app to act as our api. So we'll need a fresh sandbox to play in, plus a boilerplate minitest setup. Because we're friends and I value your time, I made this repo for you!
 
 ```bash
-$ cd ~/C5/sandbox
-$ git clone https://github.com/Ada-C5/ada-pets-minitest
+$ cd ~/C5/exercises
+$ git clone git@github.com:AdaGold/ada-pets.git
 $ bundle
 $ rake db:migrate db:seed
 ```
