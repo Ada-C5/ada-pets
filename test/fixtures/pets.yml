@@ -1,0 +1,14 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+rosa:
+  name: Rosa
+  age: 8
+  human: Jeremy 
+raquel:
+  name: Raquel
+  age: 13
+  human: Jeremy 
+rosa_clone:
+  name: Rosa's Clone
+  age: 10
+  human: Jeremy
